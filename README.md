@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Belayet Hossain Saimun</h1>
 <h3 align="center">ETE undergrad student at CUET</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **belayetsaimun16@gmail.com**
 
