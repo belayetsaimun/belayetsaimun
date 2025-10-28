@@ -79,14 +79,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=belayetsaimun&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 📖 Learning Advanced Deep Learning Techniques
@@ -113,11 +105,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <strong>⭐ Star my repositories if you find them helpful!</strong><br>
-  <strong>💬 Let's collaborate on exciting ML & AI projects!</strong>
-</p>
-
----
