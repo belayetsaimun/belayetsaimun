@@ -99,14 +99,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=belayetsaimun&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=667eea&point=f94144" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 📫 How to Reach Me
 
 <p align="center">
@@ -129,9 +121,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=belayetsaimun&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views"/>
-  <br><br>
-  <em>Built with ❤️ by Belayet Hossain Saimun</em>
-</p>
